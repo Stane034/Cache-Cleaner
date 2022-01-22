@@ -1,6 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+____ ____ ____ _  _ ____    ____ _    ____ ____ _  _ ____ ____ 
+|    |__| |    |__| |___    |    |    |___ |__| |\ | |___ |__/ 
+|___ |  | |___ |  | |___    |___ |___ |___ |  | | \| |___ |  \ 
+
+[c] Coded By : https://github.com/Stane034
+[i] Mini Program koji vam moze pomoci da ocistite Cache na vasim racunarima ili FiveMu
+[d] Hvala na pracenju mog rada.
+
+*/
 
 int main() { 
     char *userIme;
