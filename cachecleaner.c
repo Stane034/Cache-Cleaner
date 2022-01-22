@@ -17,7 +17,7 @@ int main() {
     userIme = getenv("USERPROFILE");
     char izbor[50];
     printf("[c] Dobrodosli na Cache Cleaner v1.0.0\n[i] Usage : [ fivem ] [ temp ] [ all ]");
-    scanf("49%s", izbor);
+    scanf("%49s", izbor);
     izvrsiZadatak(userIme, izbor);
     return 0;
 }
